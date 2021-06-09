@@ -1,2 +1,2 @@
 #!/bin/bash
-ln -s /path/ link_name
+ln -s /bin/ls __ls__
